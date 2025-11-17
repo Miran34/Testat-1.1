@@ -1,0 +1,43 @@
+h1 {
+    color: rgba(21, 210, 206, 0.9);
+    outline: dotted #ff0000;
+    outline-color: blue;
+}
+
+h2 {
+    color: green;
+    background-color: black;
+    width: 40%;
+    line-height: 2em;
+}
+
+h1,
+h2 {
+    color: gray;
+}
+
+.div1 {
+    color: yellow;
+}
+
+#did1 {
+    color: black;
+}
+
+/*ol b {
+    color: green;
+}*/
+
+li:nth-child(odd) {
+    color: blue;
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+
+a:link,
+a:visited {
+    color: pink;
+}
