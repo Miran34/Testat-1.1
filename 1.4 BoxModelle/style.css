@@ -1,0 +1,26 @@
+div {
+    background-color: green;
+    padding: 5px;
+    min-width: 200px;
+    max-width: 300px;
+}
+
+p {
+    background-color: hsla(61, 87%, 50%, 1);
+    opacity: 0.5;
+    width: 200px;
+    padding: 10px;
+    padding-bottom: 5px;
+    border-top-style: solid;
+    border-top-width: 5px;
+    margin: 10px;
+    height: 100px;
+    overflow: hidden;
+    height: 2em;
+
+}
+
+label {
+    width: 200px;
+    display: block;
+}
