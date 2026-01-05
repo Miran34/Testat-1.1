@@ -11,6 +11,10 @@ header {
 
 
 }
+
+a {
+    display: inline;
+}
 label {
     width: 150px;
     display: inline-block;
@@ -66,4 +70,28 @@ input {
 
 .grid div span.label {
     color: #0077b6;
+}
+#A1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+
+#M1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.M2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.Start {
+    font-weight: bold;
+    color: green;
+    font-size: 30px;
 }

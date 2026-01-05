@@ -1,0 +1,38 @@
+/*
+span {
+    width: 100px;
+    display: inline-block;
+}
+
+.l1 {
+    width: 100px;
+    display: inline-block;
+
+}
+
+#l2
+.l1 {
+    width: 100px;
+    display: inline-block;
+}
+*/
+ol>li {
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    line-height: 1.5em;
+    letter-spacing: 0.2em;
+    text-align: center;
+}
+
+ol {
+    list-style-type: none;
+}
+
+/*
+ol li::before {
+    content: "X";
+    color: red;
+}*/
