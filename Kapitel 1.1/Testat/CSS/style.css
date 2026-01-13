@@ -81,6 +81,7 @@ input {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     font-size: 20px;
+    background-image: radial-gradient(rgba(250, 200, 150, 0.5), rgba(150, 250, 150, 0.6));
 }
 
 .M2 {
@@ -88,10 +89,22 @@ input {
     color: red;
     font-weight: bold;
     font-size: 10px;
+    background-image: linear-gradient(red, blue);
 }
 
 .Start {
     font-weight: bold;
     color: green;
     font-size: 30px;
+}
+cite {
+    box-shadow: 4px 4px 4px lightgray;
+}
+
+:focus {
+    background-color: hotpink;
+}
+
+img {
+    box-shadow: 9px 4px 20px blue;
 }

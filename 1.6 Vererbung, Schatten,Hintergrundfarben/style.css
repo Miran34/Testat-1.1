@@ -1,0 +1,61 @@
+/*
+VERERBUNG
+
+body {
+    background-color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div {
+    padding: 5px;
+}
+
+p {
+    padding: inherit;
+}
+
+p+p {
+    font-family: initial;
+}*/
+
+
+/* TABELLEN
+th {
+    text-transform: uppercase;
+}
+
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    /* border-collapse: separate; Trennt die verschieden Tabellen von an einer
+    border-spacing: {5px;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: gray;
+
+}
+
+body tr:hover {
+    background-color: yellow;
+}
+*/
+
+div {
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+    background-image: linear-gradient(rgba(120, 0, 0, 0.2), rgba(250.200, 150, 0.6));
+    box-shadow: 5px 5px 5px gray;
+    /*background-image: url("Images/BildMann.jpg");
+    background-repeat: no-repeat;
+    background-position: 5px 10px;
+    background-size: 100px 50px;*/
+}
+
+:focus {
+    background-color: yellow;
+}
