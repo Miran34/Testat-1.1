@@ -1,7 +1,12 @@
+@import url(style-class.css);
 h1 {
     background-color: yellow;
     line-height: 4em;
-    width: 25%;
+    width: 40%;
+    }
+    
+    p {
+        background-color: hotpink;
 }
 
 header {
@@ -84,14 +89,14 @@ input {
     background-image: radial-gradient(rgba(250, 200, 150, 0.5), rgba(150, 250, 150, 0.6));
 }
 
-.M2 {
+/*.M2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: red;
     font-weight: bold;
     font-size: 10px;
     background-image: linear-gradient(red, blue);
 }
-
+*/
 .Start {
     font-weight: bold;
     color: green;

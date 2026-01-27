@@ -1,0 +1,23 @@
+.M2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-weight: bold;
+    font-size: 10px;
+    background-image: linear-gradient(red, blue);
+}
+
+.Button {
+    font-family: cursive;
+    background-color: aqua;
+    background-image: linear-gradient(green aqua);
+}
+
+
+img.toursuisse {
+    box-shadow: 9px 4px 20px pink;
+}
+
+.container {
+    border: 2px solid aqua;
+    float: right;
+}
